@@ -1,0 +1,50 @@
+.content {
+  width: 500px;
+  margin: auto;
+  margin-top: 20px;
+
+  &__password {
+    display: flex;
+    height: 32px;
+  }
+
+  &__password_search {
+    flex: 1;
+    border-radius: 8px;
+    border: 3px solid #5099ff;
+    padding: 3px;
+    font-size: 18px;
+    outline: none;
+    background: none;
+    margin-left: 20px;
+  }
+
+  &__password_btn {
+    width: 100px;
+    margin-left: 15px;
+    border: 3px solid #5099ff;
+    border-radius: 8px;
+    background: none;
+
+    &:hover {
+      background: linear-gradient(70deg, #5099ff, rgb(247, 247, 182));
+      color: white;
+      cursor: pointer;
+    }
+  }
+
+  &__list {
+    text-decoration: none;
+    list-style: none;
+    padding: 0px;
+  }
+
+  &__list-item {
+    display: flex;
+  }
+
+  &__list-item_img {
+    width: 500px;
+    border-radius: 10%;
+  }
+}
