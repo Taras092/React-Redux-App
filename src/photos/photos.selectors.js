@@ -1,0 +1,1 @@
+export const photoSelector = state => state.photo;
