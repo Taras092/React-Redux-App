@@ -1,6 +1,6 @@
 # **todos-photos**
 
-[Site link](https://taras092.github.io/React-Redux-App/)
+[Site link](magenta-phoenix-89d1f6.netlify.app)
 
 ###### Layout supports desktop (up-to-1400) versions
 
