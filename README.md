@@ -1,4 +1,4 @@
-# **Calendare Project**
+# **todos-photos**
 
 [Site link](https://taras092.github.io/React-Redux-App/)
 
