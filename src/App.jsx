@@ -11,13 +11,13 @@ const App = () => {
     <>
       <header className="header">
         <div className="header__home header_link">
-          <Link to="/">Home</Link>
+          <Link to="/React-Redux-App">Home</Link>
         </div>
         <div className="header__todos header_link">
-          <Link to="/todos">Todos</Link>
+          <Link to="/React-Redux-App/todos">Todos</Link>
         </div>
         <div className="header__photos header_link">
-          <Link to="/photos">Photos</Link>
+          <Link to="/React-Redux-App/photos">Photos</Link>
         </div>
       </header>
       <Routes>
